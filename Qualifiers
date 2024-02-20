@@ -2,4 +2,4 @@
                                                                           |
                                                                           |->modification qualifiers >> const , volatile , mutuable
                                                                           |
-                                                                          |->Life duration qualifiers >> static , extern , register
+                                                                          |->Life duration qualifiers >> auto , static , extern , register
