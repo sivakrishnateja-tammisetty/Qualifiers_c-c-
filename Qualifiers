@@ -1,0 +1,5 @@
+                                                                           Qualifiers
+                                                                          |
+                                                                          |->modification qualifiers >> const , volatile , mutuable
+                                                                          |
+                                                                          |->Life duration qualifiers >> static , extern , register
